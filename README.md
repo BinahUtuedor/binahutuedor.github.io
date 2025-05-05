@@ -27,8 +27,3 @@ This dashboard serves as a crucial tool for the cookies company’s management t
 
 **Dashboard Overview:**
 ![Chocolate](chocolate.png)
-
-
-
-
-**Dashboard Overview:**
