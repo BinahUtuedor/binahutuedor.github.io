@@ -1,7 +1,7 @@
 # Project 1
 
 **Title:** 
-[Interactive Chocolate Sales Dashboard](https://github.com/BinahUtuedor/binahutuedor.github.io/blob/main/Chocolate%20Sales%20Dashboard.xlsx)
+[Chocolate Sales Interactive Dashboard](https://github.com/BinahUtuedor/binahutuedor.github.io/blob/main/Chocolate%20Sales%20Dashboard.xlsx)
 
 **Tools Used:** 
 Microsoft Excel, Pivot Tables, Pivot Charts, Line Charts, Bar Charts, Slicers
@@ -54,7 +54,7 @@ SQL Server
 # Project 3
 
 **Title:** 
-[Interactive MTN Performance Dashboard](https://github.com/BinahUtuedor/binahutuedor.github.io/blob/main/MTN%20Performance%20Dashboard.pbix)
+[MTN Performance Interactive Dashboard](https://github.com/BinahUtuedor/binahutuedor.github.io/blob/main/MTN%20Performance%20Dashboard.pbix)
 
 **Tools Used:** 
 Microsoft Power BI, Line Charts, Bar Charts, Slicers
