@@ -7,12 +7,12 @@
 Microsoft Excel, Pivot Tables, Pivot Charts, Line Charts, Bar Charts, Slicers
 
 **Project Description:** 
-This project involved analysing product data of cookies company to identify trends and patterns in sales performance for 2020. It is designed to provide a comprehensive overview of key performance metrics. This dashboard allows stakeholders to easily monitor and analyze the company’s performance across different regions, products, and time periods. The dashboard includes the following features:
+This project involved analysing the product data of a cookie company to identify trends and patterns in sales performance for 2020. It is designed to provide a comprehensive overview of key performance metrics. This dashboard allows stakeholders to easily monitor and analyze the company’s performance across different regions, products, and periods. The dashboard includes the following features:
 Profit by Country and Cookies: Visual representation of profits broken down by each country and type of cookie.
 Total Units Sold per Month: A monthly breakdown of the total units sold, providing insights into sales trends over time.
 Profit by Month: Displays the monthly profit, allowing for easy comparison of profitability throughout the year.
 Total Revenue by Country: Highlights the total revenue generated in each country, showcasing the performance in different markets.
-Additionally, the dashboard includes interactive slicers and timeline for:
+Additionally, the dashboard includes interactive slicers and a timeline for:
 Month: Filter the data to view performance for a specific month or range of months.
 Country: Focus on specific countries to analyze regional performance.
 Product: Drill down into the performance of individual cookie products.
@@ -42,9 +42,9 @@ Data Filtering (WHERE, BETWEEN, IN, AND): Applied filters to select relevant dat
 Data Source Specification (FROM): Specified the tables used as data sources for retrieval
 
 **Project Description:**
-This project focuses on the analysis of a comprehensive dataset containing detailed information about approximately 11,000 football players. The primary objective is to utilize SQL for extracting meaningful insights regarding player demographics, performance metrics, and other relevant attributes.
+This project focuses on analyzing a comprehensive dataset containing detailed information about approximately 11,000 football players. The primary objective is to utilize SQL to extract meaningful insights regarding player demographics, performance metrics, and other relevant attributes.
 Database Design and Implementation: Develop a relational database schema to effectively store and manage the football players' data, ensuring normalization and referential integrity.
-Data Analysis Using SQL: Execute SQL queries to analyze various aspects of the dataset, including: Player demographics (e.g., age, nationality). Performance metrics (e.g., ratings, positions). Financial attributes (e.g., wages, market value).
+Data Analysis Using SQL: Execute SQL queries to analyze various aspects of the dataset, including Player demographics (e.g., age, nationality), performance metrics (e.g., ratings, positions), and financial attributes (e.g., wages, market value).
 Insight Extraction: Identify patterns and trends within the data, such as: Nationalities with the highest representation among players. Correlation between player attributes and performance metrics. Distribution of players across different clubs and leagues.
 Reporting and Visualization: Present the findings through comprehensive reports and visualizations to facilitate better understanding and decision-making. By the end of this project, we aim to have a fully functional SQL database capable of providing in-depth analysis of football players' data, offering valuable insights for stakeholders such as team managers, scouts, and analysts
  
