@@ -33,7 +33,7 @@ This dashboard serves as a crucial tool for the cookies company’s management t
 Cars Data Interrogation and Manipulation
 
 **SQL Code:**
-[Cars SQL Code](https://github.com/BinahUtuedor/binahutuedor.github.io/blob/main/Chocolate.sql)
+[Cars SQL Code](https://github.com/BinahUtuedor/binahutuedor.github.io/blob/main/Cars.sql)
 
 **SQL Skills Used:**
 Data Retrieval (SELECT): Queried and extracted specific information from the database.
