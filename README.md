@@ -16,8 +16,8 @@ Visual representation of sales revenue broken down by the total monthly sales fo
 A breakdown of the total number of boxes shipped per month, the total number of boxes shipped per product for the period under review, and the total number of boxes shipped to each country.
 
 Additionally, the dashboard includes interactive slicers for:
-Product: Filters the data to view performance for a specific product or a range of products.
-Country: Focuses on a specific country or countries to analyze regional performance.
+*Product:* Filters the data to view performance for a specific product or a range of products.
+*Country:* Focuses on a specific country or countries to analyze regional performance.
 
 **Key findings:** 
 *Sales Revenue:* 
