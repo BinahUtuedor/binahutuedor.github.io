@@ -28,7 +28,7 @@ Additionally, the dashboard includes interactive slicers for:
 Identified the months, countries, and products with the highest sales revenue and the corresponding number of boxes shipped per product. The charts show that revenue derived from sales per month and country increases with the number of boxes of chocolate shipped. However, the revenue generated from each chocolate type does not directly relate to the number of boxes of that chocolate type shipped. 
 
 *Top-Performing Products:* 
-Highlighted which chocolate brands are driving the most revenue, aiding in inventory and marketing decisions.
+Highlighted the chocolate brands generating the most revenue, aiding in inventory and marketing decisions.
 
 *Sales Volatility:*
 Analyzed monthly sales fluctuations to understand market dynamics and adjust business strategies accordingly.
@@ -58,15 +58,15 @@ Cars Data Interrogation and Manipulation
 *Data Source Specification (FROM):* Specified the tables used as data sources for retrieval
 
 **Project Description:**
-This project focuses on analyzing a comprehensive dataset containing detailed information about approximately 8,000 car records. The primary objective is to utilize SQL to extract meaningful insights regarding product demographics, performance metrics, and other relevant attributes.
+This project focused on analyzing a comprehensive dataset containing detailed information about approximately 8,000 car records. The primary objective is to utilize SQL to extract meaningful insights regarding product demographics, performance metrics, and other relevant attributes.
 
 *Database Design and Implementation:* Develop a relational database schema to effectively store and manage the cars' data, ensuring normalization and referential integrity.
 
 *Data Analysis Using SQL:* Execute SQL queries to analyze various aspects of the dataset, including car demographics (e.g., make, year, number of seats, fuel type), and financial attributes (e.g., sales price, market value).
 
-*Insight Extraction:* Identify patterns and trends within the data, such as: The total number of cars available per year. The number of cars, segmented by fuel type, available per year.
+*Insight Extraction:* Identify patterns and trends within the data, such as: the total number of cars available per year; the number of cars, segmented by fuel type, available per year.
 
-*Reporting and Visualization:* Present the findings through comprehensive reports and visualizations to facilitate better understanding and decision-making. By the end of this project, we aim to have a fully functional SQL database capable of providing in-depth analysis of football cars data, offering valuable insights for stakeholders.
+*Reporting and Visualization:* Present the findings through comprehensive reports and visualizations to facilitate better understanding and decision-making. By the end of this project, we aim to have a fully functional SQL database capable of providing in-depth analysis of car data, offering valuable insights for stakeholders.
  
 **Technology used:** 
 SQL Server
@@ -80,15 +80,15 @@ SQL Server
 Microsoft Power BI, Pie Charts, Doughnut Charts, Bar Charts, Slicers, Cards
 
 **Project Description:** 
-This project involved analysing a telecommunications company's customer churn and three-month revenue for a Telecommunications company to identify trends and patterns in customer attrition and sales performance between January and March 2025. It is designed to provide insight into customer behaviour and help stakeholders analyze and monitor the behavior of customers and provide clear strategies for customer retention and acquisition. It also provides leadership with revenue generation across states and helps to identify the states with the highest revenue generation. The dashboard includes the following features:
+This project involved analysing the customer churn and three-month revenue for a Telecommunications company to identify trends and patterns in customer attrition and sales performance between January and March 2025. It is designed to provide insight into customer behaviour, to help stakeholders analyze and monitor the behavior of customers, and provide clear strategies for customer acquisition and retention. It also provides stakeholders with revenue generation across states and helps to identify the states with the highest revenue generation. The dashboard includes the following features:
 
 *Total Customers by Rating:* This gives a visual representation of the percentage rating given by customers to the company`s products.
 
 *Total Customers by Reasons for Churn:* A breakdown of the total number of customers and the reasons for churn, providing insights into customer attrition.
 
-*Total Revenue by Month:* Displays the percentage of monthly revenue for each month, allowing for easy comparison of revenue generation trend for the first three months.
+*Total Revenue by Month:* Displays the revenue for each month, allowing for easy comparison of revenue generation trend for the first three months.
 
-*Top 5 States by Total Revenue:* Highlights the total revenue generated in each state, showcasing the performance in different parts of the country.
+*Top 5 States by Total Revenue:* Highlights the total revenue generated in each of the five states, showcasing the performance in different parts of the country.
 
 Additionally, the dashboard includes interactive slicers and a timeline for:
 
