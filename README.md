@@ -72,34 +72,34 @@ SQL Server
 [MTN Performance Interactive Dashboard](https://github.com/BinahUtuedor/binahutuedor.github.io/blob/main/MTN%20Performance%20Dashboard.pbix)
 
 **Tools Used:** 
-Microsoft Power BI, Line Charts, Bar Charts, Slicers
+Microsoft Power BI, Pie Charts, Doughnut Charts, Bar Charts, Slicers, Cards
 
 **Project Description:** 
-This project involved analysing the product data of a telecommunications company to identify trends and patterns in customer attrition and sales performance between January and March 2025. It is designed to provide a comprehensive overview of key performance metrics. This dashboard allows stakeholders to easily monitor and analyze the company’s performance across different regions, products, and periods. The dashboard includes the following features:
+This project involved analysing a telecommunications company's customer churn and three-month revenue for a Telecommunications company to identify trends and patterns in customer attrition and sales performance between January and March 2025. It is designed to provide insight into customer behaviour and help stakeholders analyze and monitor the behavior of customers and provide clear strategies for customer retention and acquisition. It also provides leadership with revenue generation across states and helps to identify the states with the highest revenue generation. The dashboard includes the following features:
 
-*Profit by Country and Cookies:* Visual representation of profits broken down by each country and type of cookie.
-Total Units Sold per Month: A monthly breakdown of the total units sold, providing insights into sales trends over time.
+*Total Customers by Rating:* This gives a visual representation of the percentage rating given by customers to the company`s products.
 
-*Profit by Month:* Displays the monthly profit, allowing for easy profitability comparison throughout the year.
-Total Revenue by Country: Highlights the total revenue generated in each country, showcasing the performance in different markets.
+*Total Customers by Reasons for Churn:* A breakdown of the total number of customers and the reasons for churn, providing insights into customer attrition.
+
+*Total Revenue by Month:* Displays the percentage of monthly revenue for each month, allowing for easy comparison of revenue generation trend for the first three months.
+
+*Top 5 States by Total Revenue:* Highlights the total revenue generated in each state, showcasing the performance in different parts of the country.
+
 Additionally, the dashboard includes interactive slicers and a timeline for:
 
 *Month:* Filter the data to view performance for a specific month or range of months.
 
-*Country:* Focus on specific countries to analyze regional performance.
-
-*Product:* Drill down into the performance of individual cookie products.
+*State:* Focus on specific states to analyze regional performance.
 
 **Key findings:** 
 
-*Regional Profitability:* Identified the most profitable countries and highlighted regions where performance could be improved.
-Seasonal Trends: Revealed patterns in sales and profit that correspond with seasonal events, allowing for more strategic planning.
+*Revenue generation by states:* Identified the states with the highest revenue generation and states where performance could be improved.
 
-*Top-Performing Products:* Highlighted which cookie products drive the most revenue and profit, aiding in inventory and marketing decisions.
+*Revenue generation by months:* Provided highlights of the monthly revenue generation to aid stakeholders in making strategic plans to improve revenue generation.
 
-*Sales Volatility:* Analyzed monthly sales fluctuations to understand market dynamics and adjust business strategies accordingly.
+*Reasons for customer churn:* Analyzed reasons for customer churn to understand customer behavior and adjust business strategies accordingly.
 
-This dashboard is a crucial tool for the cookies company’s management team, providing clear, actionable insights that drive informed decision-making and strategic planning.
+This dashboard is a crucial tool for the telecommunications company’s management team, providing clear, actionable insights that drive informed decision-making and strategic planning.
 
 **Dashboard Overview:**
 ![MTN](MTN_Snapshot.png)
