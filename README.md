@@ -48,20 +48,25 @@ Cars Data Interrogation and Manipulation
 [Cars SQL Code](https://github.com/BinahUtuedor/binahutuedor.github.io/blob/main/Cars.sql)
 
 **SQL Skills Used:**
-Data Retrieval (SELECT): Queried and extracted specific information from the database.
-Data Aggregation (COUNT): Counted records to analyze data trends.
-Data Filtering (WHERE, IN, AND): Applied filters to select relevant data, including filtering by lists.
-Data Source Specification (FROM): Specified the tables used as data sources for retrieval
+
+*Data Retrieval (SELECT):* Queried and extracted specific information from the database.
+
+*Data Aggregation (COUNT):* Counted records to analyze data trends.
+
+*Data Filtering (WHERE, IN, AND):* Applied filters to select relevant data, including filtering by lists.
+
+*Data Source Specification (FROM):* Specified the tables used as data sources for retrieval
 
 **Project Description:**
 This project focuses on analyzing a comprehensive dataset containing detailed information about approximately 8,000 car records. The primary objective is to utilize SQL to extract meaningful insights regarding product demographics, performance metrics, and other relevant attributes.
 
 *Database Design and Implementation:* Develop a relational database schema to effectively store and manage the cars' data, ensuring normalization and referential integrity.
-Data Analysis Using SQL: Execute SQL queries to analyze various aspects of the dataset, including car demographics (e.g., make, year, number of seats, fuel type), and financial attributes (e.g., sales price, market value).
 
-*Insight Extraction:* Identify patterns and trends within the data, such as: Nationalities with the highest representation among players. Correlation between player attributes and performance metrics. Distribution of players across different clubs and leagues.
+*Data Analysis Using SQL:* Execute SQL queries to analyze various aspects of the dataset, including car demographics (e.g., make, year, number of seats, fuel type), and financial attributes (e.g., sales price, market value).
 
-*Reporting and Visualization:* Present the findings through comprehensive reports and visualizations to facilitate better understanding and decision-making. By the end of this project, we aim to have a fully functional SQL database capable of providing in-depth analysis of football players' data, offering valuable insights for stakeholders such as team managers, scouts, and analysts
+*Insight Extraction:* Identify patterns and trends within the data, such as: The total number of cars available per year. The number of cars, segmented by fuel type, available per year.
+
+*Reporting and Visualization:* Present the findings through comprehensive reports and visualizations to facilitate better understanding and decision-making. By the end of this project, we aim to have a fully functional SQL database capable of providing in-depth analysis of football cars data, offering valuable insights for stakeholders.
  
 **Technology used:** 
 SQL Server
