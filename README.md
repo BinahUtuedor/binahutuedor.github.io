@@ -1,8 +1,6 @@
 # Project 1
 
-**Title:** 
-
-[Chocolate Sales Interactive Dashboard](https://github.com/BinahUtuedor/binahutuedor.github.io/blob/main/Chocolate%20Sales%20Dashboard.xlsx)
+**Title:** [Chocolate Sales Interactive Dashboard](https://github.com/BinahUtuedor/binahutuedor.github.io/blob/main/Chocolate%20Sales%20Dashboard.xlsx)
 
 **Tools Used:** 
 Microsoft Excel, Pivot Tables, Pivot Charts, Line Charts, Bar Charts, Slicers
